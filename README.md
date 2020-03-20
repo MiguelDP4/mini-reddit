@@ -14,7 +14,7 @@ The purpose of this project is to build a learn the basics of ruby on rails.
 - Github: [@MiguelDP4](https://github.com/MiguelDP4)
 - Twitter: [@Mike_DP4](https://twitter.com/Mike_DP4)
 
-👤 **Brenda Yucra**
+👤 **Marshall Chikari**
 
 - Github: [@gitnyasha](https://github.com/gitnyasha)
 - Twitter: [@marshallchkari](https://twitter.com/marshallchkari) 
